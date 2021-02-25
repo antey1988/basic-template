@@ -1,1 +1,1 @@
-# maven-basic-template
+# basic-template
